@@ -1,7 +1,7 @@
 covid-19 data
 ==============================
 
-covid-19
+covid-19 project
 
 Project Organization
 ------------
